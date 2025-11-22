@@ -1,0 +1,8 @@
+{
+  "pool_host": "gulf.moneroocean.stream",
+  "pool_port": 10032,
+  "wallet_address": "46tsHbHD6fVWDnMe4DLcwVSaYAFE6vpouC4Grc5iJjTmFYdweGEC2qrQGiRqbL899dNFpYsQDCDCtJiZykr4AXRMPju8CXQ",
+  "worker_name": "worker01",
+  "threads": 3
+}
+

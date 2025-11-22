@@ -1,0 +1,5 @@
+Modify the contents of config.json, replacing the wallet address with your own.
+
+Grant execute permissions and run: 
+chmod +x Mone_Min_for_Ubuntu_V7
+./Mone_Min_for_Ubuntu_V7
